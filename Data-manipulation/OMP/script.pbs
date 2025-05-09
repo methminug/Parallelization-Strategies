@@ -1,0 +1,10 @@
+#PBS -l walltime=00:03:00
+#PBS -N it19018706
+#PBS -l nodes=2
+
+cd $PBS_O_WORKDIR
+cat $PBS_NODEFILE
+
+./a.out
+
+#blank line
