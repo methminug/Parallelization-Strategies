@@ -1,6 +1,6 @@
 # Parallelization Strategies for String Search and Image Processing
 
-This is a report detailing the implementation and performance analysis of parallel algorithms for two distinct problems: string searching using recursion and divide-and-conquer, and image processing (grayscale conversion). <br/>
+This project details the implementation and performance analysis of parallel algorithms for two problems: string searching using recursion and divide-and-conquer, and image processing (grayscale conversion). <br/>
 The report explores the application of different parallel programming paradigms, including OpenMP, MPI, and OneAPI, to these problems and the source code for the implemented paralell algorithms are included in the relevant folders.
 
 **Key aspects covered:**
